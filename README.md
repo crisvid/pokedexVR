@@ -4,8 +4,8 @@ ITIN4210-4472y4471 SEMINARIO DE SISTEMAS
 
 ## Información
 
- Universidad de las Américas
- Nombre: Christian Uzcategui
+ - Universidad de las Américas
+ - Nombre: Christian Uzcategui
  
 ## Herramientas
 
